@@ -2,18 +2,21 @@
 
 <div style="border: 2px solid #333; padding: 20px; border-radius: 10px;">
   <h1 align="center" style="color: #333;">﷽</h1>
-  <h1 align="center" style="color: #333;">Hi 👋, I'm Bilel Hichem</h1>
-  <h3 align="center" style="color: #555;">A passionate Computer Science developer from Algeria</h3>
+  <h1 align="center" style="color: #333;">Hi 👋, I'm Bilel Hichem lakhmi</h1>
+<h3 align="center" style="color: #555; font-size: 1px;">
+  A computer science student with a passion for software development. I specialize in mobile application development using Flutter and Java, and in backend development with Node.js and the Express framework. I have extensive experience with both relational (MySQL) and non-relational (Firebase, MongoDB) databases. Additionally, I am skilled in frontend development with Java and Flutter.
+</h3>
+
 </div>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **MySQL, Machine Learning, RESTful APIs, MongoDB**
+- 🌱 I’m currently learning **intelligence artificielle && Network**
 
-- 💬 Ask me about **Android, Node.js, Flutter**
+- 💬 Ask me about **Android, Node.js, Flutter ,Backend (Relationel , non Relationel)**
 
-- 📫 How to reach me: **hb.lakhmi@esi-sba.dz**
+- 📫 How to reach me: **hb.lakhmi@esi-sba.dz || lakhmibilel12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
