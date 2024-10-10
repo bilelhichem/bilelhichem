@@ -1,18 +1,19 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/bilelhichem)
-
+<br/>
 <div style="border: 2px solid #333; padding: 20px; border-radius: 10px; background-color: #f9f9f9;">
   <h1 align="center" style="color: #333;">﷽</h1>
+  <br/>
   <h1 align="center" style="color: #333;">Hi 👋, I'm Bilel Hichem Lakhmi</h1>
   <p align="center" style="color: #555;">
     A computer science student with a passion for software development. I specialize in mobile application development using Flutter and Java, and in backend development with Node.js and the Express framework. I have extensive experience with both relational (MySQL) and non-relational (Firebase, MongoDB) databases. Additionally, I am skilled in frontend development with Java and Flutter.
   </p>
 </div>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE2anN0YmV3bXI2M2o3c2VsMTBsdjRuZWs4d2YwdXR4eHRidDdmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 🌱 I’m currently learning Artificial Intelligence & Networks
 
 💬 Ask me about Android, Node.js, Flutter, Backend (Relational & Non-Relational)
 
-📫 How to reach me: hb.lakhmi@esi-sba.dz || lakhmibilel12@gmail.com
+📫 How to reach me: lakhmibilelhichem@gmail.com || lakhmibilel12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
