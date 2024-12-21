@@ -1,5 +1,5 @@
-![DALL·E-2024-12-18-01 12](https://github.com/user-attachments/assets/a9ac9e49-5c0b-4913-b235-5822b4bfdf27)
 
+<img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/a9ac9e49-5c0b-4913-b235-5822b4bfdf27" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 <br/>
 
 <div style="border: 2px solid #333; padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
