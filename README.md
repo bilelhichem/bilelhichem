@@ -3,11 +3,13 @@
 <br/>
 
 <div style="border: 2px solid #333; padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
- <h1 align="center" style="font-size: 80px; color: #333; text-align: center; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); font-weight: bold;">﷽</h1>
+  <h1 align="center" style="font-size: 80px; color: #333; text-align: center; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); font-weight: bold;">﷽</h1>
   <br/>
   <h1 align="center" style="color: #333; font-size: 36px; font-weight: bold;">Hi 👋, I'm Bilel Hichem Lakhmi</h1>
   <p align="center" style="color: #555; font-size: 18px; line-height: 1.6;">
-    A passionate computer science student specializing in mobile application development using <strong>Flutter</strong> and <strong>Java</strong>, and backend development with <strong>Node.js</strong> and the <strong>Express</strong> framework. I have extensive experience with both relational (MySQL) and non-relational (Firebase, MongoDB) databases. Additionally, I am skilled in frontend development with Java and Flutter.
+    A passionate computer science student specializing in mobile application development using <strong>Flutter</strong> and <strong>Java</strong>, 
+    and backend development with <strong>Node.js</strong> and the <strong>Express</strong> framework. I have extensive experience with both relational 
+    (MySQL) and non-relational (Firebase, MongoDB) databases. Additionally, I am skilled in frontend development with Java and Flutter.
   </p>
 </div>
 
@@ -21,34 +23,47 @@
 
 📫 How to reach me: [lakhmibilelhichem@gmail.com](mailto:lakhmibilelhichem@gmail.com) || [lakhmibilel12@gmail.com](mailto:lakhmibilel12@gmail.com)
 
-📌 Mon Portfolio : https://bilelhichem.github.io/My-Portfolio/
+📌 My Portfolio: [https://bilelhichem.github.io/My-Portfolio/](https://bilelhichem.github.io/My-Portfolio/)
 <br/>
 
-<h3 align="left" style="font-size: 24px; font-weight: bold;">Connect with me:</h3>
+### Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/lakhmi-hichem-billal-a3b273255/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" /></a>
   <a href="https://www.facebook.com/profile.php?id=100016438029582" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="margin-right: 10px;" /></a>
   <a href="https://www.instagram.com/bilel_hichem/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 10px;" /></a>
+  <a href="https://www.kaggle.com/bilelhichem" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1048839b-b5b0-4aac-bc52-2f330fa864a9" alt="Kaggle" height="30" width="40" style="margin-right: 10px;" /></a>
 </p>
 
-<h3 align="left" style="font-size: 24px; font-weight: bold;">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin-right: 10px;"/> </a>
-</p>
+## 🚀 Languages and Tools  
+
+### 📱 Mobile Development  
+- **Java**   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/>  
+- **Android** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="25"/>  
+- **Flutter** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25"/>  
+- **Dart** <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25"/>  
+
+### 🌐 Backend Development  
+- **Node.js** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/>  
+- **Express.js** <img src="https://github.com/user-attachments/assets/6cae947a-c35b-45b6-b785-7c188f797daf" width="25"/>  
+- **Firebase** <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="25"/>  
+- **MongoDB** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/>  
+- **MySQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/>  
+
+### 🤖 AI & Machine Learning  
+- **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/>  
+- **Pandas** <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="25"/>  
+- **Seaborn** <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25"/>  
+- **TensorFlow** <img src="https://github.com/user-attachments/assets/5cb8b11e-7305-444d-872f-d3150311285d" width="25"/>  
+- **Scikit-learn**  <img src="https://github.com/user-attachments/assets/31de686a-096d-45f2-8a47-22ec1d088de8" width="25"/>  
+- **matplotlib**  <img src="https://github.com/user-attachments/assets/eb96fa0d-282f-4d8b-a253-f66b42f63c20" width="25"/>  
+
+### 💻 Development Tools  
+- **Git** <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>  
+- **GitHub** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="25"/>  
+- **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/>  
+- **VS Code** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/>  
+- **Android Studio** <img src="https://github.com/user-attachments/assets/dd6a5979-2753-41c6-9089-50e76672325e" width="25"/>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilelhichem&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilelhichem&show_icons=true&locale=en" alt="GitHub Stats" /></p>
