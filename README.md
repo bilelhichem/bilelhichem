@@ -37,33 +37,23 @@
 
 ## 🚀 Languages and Tools  
 
-### 📱 Mobile Development  
-- **Java**   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/>  
-- **Android** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="25"/>  
-- **Flutter** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25"/>  
-- **Dart** <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25"/>  
+| **📱 Mobile Development** | **🤖 AI & Machine Learning** |
+| ------------------------- | ---------------------------- |
+| **Java** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> | **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> |
+| **Android** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="25"/> | **Pandas** <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="25"/> |
+| **Flutter** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25"/> | **Seaborn** <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25"/> |
+| **Dart** <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25"/> | **TensorFlow** <img src="https://github.com/user-attachments/assets/5cb8b11e-7305-444d-872f-d3150311285d" width="25"/> |
+|                         | **Scikit-learn**  <img src="https://github.com/user-attachments/assets/31de686a-096d-45f2-8a47-22ec1d088de8" width="25"/> |
+|                         | **matplotlib**  <img src="https://github.com/user-attachments/assets/eb96fa0d-282f-4d8b-a253-f66b42f63c20" width="25"/> |
 
-### 🌐 Backend Development  
-- **Node.js** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/>  
-- **Express.js** <img src="https://github.com/user-attachments/assets/6cae947a-c35b-45b6-b785-7c188f797daf" width="25"/>  
-- **Firebase** <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="25"/>  
-- **MongoDB** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/>  
-- **MySQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/>  
+| **🌐 Backend Development** | **💻 Development Tools** |
+| -------------------------- | ------------------------ |
+| **Node.js** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> | **Git** <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
+| **Express.js** <img src="https://github.com/user-attachments/assets/6cae947a-c35b-45b6-b785-7c188f797daf" width="25"/> | **GitHub** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="25"/> |
+| **Firebase** <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="25"/> | **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> |
+| **MongoDB** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> | **VS Code** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/> |
+| **MySQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> | **Android Studio** <img src="https://github.com/user-attachments/assets/dd6a5979-2753-41c6-9089-50e76672325e" width="25"/> |
 
-### 🤖 AI & Machine Learning  
-- **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/>  
-- **Pandas** <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="25"/>  
-- **Seaborn** <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25"/>  
-- **TensorFlow** <img src="https://github.com/user-attachments/assets/5cb8b11e-7305-444d-872f-d3150311285d" width="25"/>  
-- **Scikit-learn**  <img src="https://github.com/user-attachments/assets/31de686a-096d-45f2-8a47-22ec1d088de8" width="25"/>  
-- **matplotlib**  <img src="https://github.com/user-attachments/assets/eb96fa0d-282f-4d8b-a253-f66b42f63c20" width="25"/>  
-
-### 💻 Development Tools  
-- **Git** <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>  
-- **GitHub** <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="25"/>  
-- **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/>  
-- **VS Code** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/>  
-- **Android Studio** <img src="https://github.com/user-attachments/assets/dd6a5979-2753-41c6-9089-50e76672325e" width="25"/>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilelhichem&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilelhichem&show_icons=true&locale=en" alt="GitHub Stats" /></p>
