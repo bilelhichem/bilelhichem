@@ -26,7 +26,7 @@
 📌 My Portfolio: [https://bilelhichem.github.io/My-Portfolio/](https://bilelhichem.github.io/My-Portfolio/)
 
 📄 **My CV:**
-- 📥 [Download my CV](https://github.com/user-attachments/files/19203911/CV.Developpeur.Informatique.Moderne.Blanc.pdf)
+- 📥 [Download my CV](https://github.com/user-attachments/files/19203937/cv.pdf)
 
 
 
