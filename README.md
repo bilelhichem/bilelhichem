@@ -24,6 +24,12 @@
 📫 How to reach me: [lakhmibilelhichem@gmail.com](mailto:lakhmibilelhichem@gmail.com) || [lakhmibilel12@gmail.com](mailto:lakhmibilel12@gmail.com)
 
 📌 My Portfolio: [https://bilelhichem.github.io/My-Portfolio/](https://bilelhichem.github.io/My-Portfolio/)
+
+📄 **My CV:**
+- 📥 [Download my CV](https://github.com/user-attachments/files/19203911/CV.Developpeur.Informatique.Moderne.Blanc.pdf)
+
+
+
 <br/>
 
 ### Connect with me:
