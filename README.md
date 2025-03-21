@@ -1,4 +1,4 @@
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=bilelhichem.bilelhichem)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilelhichem&label=Profile%20views&color=0e75b6&style=flat" alt="Lakhmi Hichem Billal" /> </p>
 
 ![DALL·E-2024-12-18-01 12](https://github.com/user-attachments/assets/4a9da529-ea71-452a-8111-179a7580a2d6)
 
