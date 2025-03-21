@@ -1,9 +1,12 @@
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=bilelhichem.bilelhichem)
+
 ![DALL·E-2024-12-18-01 12](https://github.com/user-attachments/assets/4a9da529-ea71-452a-8111-179a7580a2d6)
 
 <br/>
 
 <div style="border: 2px solid #333; padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h1 align="center" style="font-size: 80px; color: #333; text-align: center; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); font-weight: bold;">﷽</h1>
+  <h1 align="center" style="font-size: 80px; color: #333; text-align: center; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); font-weight: bold;">﷽</h1> <br/>
+
   <br/>
   <h1 align="center" style="color: #333; font-size: 36px; font-weight: bold;">Hi 👋, I'm Bilel Hichem Lakhmi</h1>
   <p align="center" style="color: #555; font-size: 18px; line-height: 1.6;">
@@ -27,8 +30,6 @@
 
 📄 **My CV:**
 - 📥 [Download my CV](https://github.com/user-attachments/files/19203937/cv.pdf)
-
-
 
 <br/>
 
