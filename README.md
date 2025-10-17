@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/3290ff07-1dc3-4639-85ed-660d1b513c74" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/deb3199c-f03d-40d4-8348-5f65e1ab5995" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
 🌱 I’m currently learning **Artificial Intelligence** & **Networks**
 
