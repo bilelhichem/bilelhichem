@@ -5,7 +5,7 @@
 <br/>
 
 <div style="border: 2px solid #333; padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h1 align="center" style="font-size: 80px; color: #333; text-align: center; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); font-weight: bold;">﷽</h1> <br/>
+
 
   <br/>
   <h1 align="center" style="color: #333; font-size: 36px; font-weight: bold;">Hi 👋, I'm Bilel Hichem Lakhmi</h1>
